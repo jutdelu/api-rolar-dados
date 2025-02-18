@@ -1,5 +1,5 @@
 # api-rolar-dados
-## Pra startar o projeto
+## Para startar o projeto
 ~~~javascript
 npm init -y
 ~~~
