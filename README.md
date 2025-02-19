@@ -29,7 +29,7 @@ node src/server.js
 ~~~
 
 ## Como usar
-Executado o comando de inicialização, já é possível ver no CLI a mensagem "Servidor rodando na porta 3000", é possível fazer os testes de requisição em qualquer API Client.
+Executado o comando de inicialização, já é possível ver no CLI a mensagem "Servidor rodando na porta 3000", é possível fazer os testes de requisição em qualquer API Client. Se tiver o frontend rodando, é possível ver a parte gráfica do projeto, sem a necessidade de um API Client.
 
 ## Tecnologias utilizadas
 Foram utilizados no projeto as seguintes tecnologias:
