@@ -5,6 +5,8 @@
 
 Este projeto é um modelo simplificado de API que possui um GET para retornar um número aleatório, dependendo do número de faces fornecido pelo frontend, ele é baseado frouxamente em uma arquitetura MVC.
 
+- [Repositório Frontend](https://github.com/jutdelu/front-rolar-dados)
+
 ## Status do projeto
 
 Ainda em desenvolvimento.
